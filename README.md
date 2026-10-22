@@ -61,6 +61,12 @@
 
 </div>
 
+<h3 align="center">Activity</h3>
+
+<p align="center">
+  <img src="https://github.com/aminaoamina/aminaoamina/raw/output/contributions.svg" width="100%" alt="Contribution graph for the last year">
+</p>
+
 ### Highlights
 
 - **4th place**, IEEE TSYP13 EMBS CIS WIE Challenge, with LotusAura (AI healthcare platform)
