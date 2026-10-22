@@ -1,0 +1,3 @@
+# Large source files used by assets/build.py; only the generated images are published
+assets/source/
+__pycache__/
